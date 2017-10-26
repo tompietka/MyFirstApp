@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SA</string>
+    <string name="edit_message">Enter text here...</string>
+    <string name="button_done">Done!</string>
+    <string name="action_history">History</string>
+    <string name="action_Main">Main</string>
+    <string name="action_calendar">Calendar</string>
+    <string-array name="series_array">
+        <item>Abdominal</item>
+        <item>Knee</item>
+    </string-array>
+</resources>
